@@ -4,7 +4,7 @@
 
 🎓 I currently getting a degree in industrial engineering and management from the University Twente.
 
-💼 I currently work as a as a teaching an research assistant at University Twente.
+💼 I currently work as a as a teaching and student research assistant at University Twente.
 
 💻 I'm passionate about running, F1, complex problems, and enjoy using technology.
 
