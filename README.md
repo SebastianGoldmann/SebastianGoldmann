@@ -12,9 +12,7 @@ Programming languages: Python, Delphi, AIMMS, LATEX, RSTUDIO, Git
 Tools and technologies: MonteCarlo, linear optimization, stochastic optimization
 Other skills: [List of Other Skills]
 
-My Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
+I'm currently quite new to github and i hope to expand this in the future.
 
 How to Reach Me
 💼  [Your LinkedIn Profile](https://www.linkedin.com/in/sebastian-h-goldmann-72a197130/)
