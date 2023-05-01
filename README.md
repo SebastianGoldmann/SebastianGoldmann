@@ -18,8 +18,11 @@
 Programming languages: 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Python, Delphi, AIMMS, LATEX, RSTUDIO, Git
+![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
+![AIMMS](https://img.shields.io/badge/-AIMMS-0079C4?style=flat-square&logo=AIMMS&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 Tools and technologies: MonteCarlo, linear optimization, stochastic optimization
 
