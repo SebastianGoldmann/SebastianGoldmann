@@ -15,7 +15,11 @@
 
 ## My Skills
 
-Programming languages: Python, Delphi, AIMMS, LATEX, RSTUDIO, Git
+Programming languages: 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Python, Delphi, AIMMS, LATEX, RSTUDIO, Git
 
 Tools and technologies: MonteCarlo, linear optimization, stochastic optimization
 
