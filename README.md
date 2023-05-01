@@ -1,6 +1,6 @@
-#Hi there, I'm Sebastian! 👋
+# Hi there, I'm Sebastian! 👋
 
-##Welcome to my GitHub profile! Here's a little bit about me:
+## Welcome to my GitHub profile! Here's a little bit about me:
 
 🎓 I currently getting a degree in industrial engineering and management from the University Twente.
 
@@ -13,7 +13,7 @@
 📫 You can reach out and connect with me on linkedin.
 
 
-##My Skills
+## My Skills
 
 Programming languages: Python, Delphi, AIMMS, LATEX, RSTUDIO, Git
 
@@ -24,7 +24,7 @@ Other skills: [List of Other Skills]
 I'm currently quite new to github and i hope to expand this in the future.
 
 
-##How to Reach Me
+## How to Reach Me
 
 💼  [Your LinkedIn Profile](https://www.linkedin.com/in/sebastian-h-goldmann-72a197130/)
 
