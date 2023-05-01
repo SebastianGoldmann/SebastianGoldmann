@@ -16,7 +16,6 @@
 ## My Skills
 
 Programming languages: 
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 ![AIMMS](https://img.shields.io/badge/-AIMMS-0079C4?style=flat-square&logo=AIMMS&logoColor=white)
@@ -24,9 +23,13 @@ Programming languages:
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Tools and technologies: MonteCarlo, linear optimization, stochastic optimization
+Tools and technologies: 
+![Monte Carlo](https://img.shields.io/badge/-Monte%20Carlo-007ACC?style=flat-square)
+![Linear Optimization](https://img.shields.io/badge/-Linear%20Optimization-1A5276?style=flat-square)
+![Stochastic Optimization](https://img.shields.io/badge/-Stochastic%20Optimization-FF7F50?style=flat-square)
 
-Other skills: [List of Other Skills]
+
+
 
 I'm currently quite new to github and i hope to expand this in the future.
 
